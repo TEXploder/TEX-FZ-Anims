@@ -5,8 +5,10 @@
 
 > [!Note]
 > If you want to change the text in the corner [Currently TEX-Flipper] just add a Bubble slot over it with you custom text
-
-## CityDark (Twinkling Stars)
+</br>
+</br>
+</br>
+# CityDark (Twinkling Stars)
 ![CityDarkGif](https://texploder.com/fz/darkUpscale.gif)
 </br>
 Meta.txt:
@@ -27,8 +29,10 @@ Active cooldown: 0
 Bubble slots: 0
 
 ```
-
-## CityLight (Water and Crane Moving)
+</br>
+</br>
+</br>
+# CityLight (Water and Crane Moving)
 ![CityDarkGif](https://texploder.com/fz/lightUpscale.gif)
 </br>
 Meta.txt:
