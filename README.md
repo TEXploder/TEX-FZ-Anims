@@ -5,12 +5,9 @@
 
 > [!Note]
 > If you want to change the text in the corner [Currently TEX-Flipper] just add a Bubble slot over it with you custom text
-</br>
-</br>
-</br>
+
 # CityDark (Twinkling Stars)
 ![CityDarkGif](https://texploder.com/fz/darkUpscale.gif)
-</br>
 Meta.txt:
 ```
 Filetype: Flipper Animation
@@ -27,14 +24,10 @@ Duration: 3600
 Active cooldown: 0
 
 Bubble slots: 0
-
 ```
-</br>
-</br>
-</br>
+
 # CityLight (Water and Crane Moving)
 ![CityDarkGif](https://texploder.com/fz/lightUpscale.gif)
-</br>
 Meta.txt:
 ```
 Filetype: Flipper Animation
