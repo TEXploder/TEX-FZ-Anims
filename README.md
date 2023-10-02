@@ -8,6 +8,7 @@
 
 # CityDark (Twinkling Stars)
 ![CityDarkGif](https://texploder.com/fz/darkUpscale.gif)
+
 Meta.txt:
 ```
 Filetype: Flipper Animation
@@ -28,6 +29,7 @@ Bubble slots: 0
 
 # CityLight (Water and Crane Moving)
 ![CityDarkGif](https://texploder.com/fz/lightUpscale.gif)
+
 Meta.txt:
 ```
 Filetype: Flipper Animation
