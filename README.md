@@ -10,11 +10,11 @@
 
 
 ## CityDark (Twinkling Stars)
-![CityDarkGif](https://texploder.com/fz/TEXCity_Dark_Sparkling.gif)
+![CityDarkGif](https://texploder.com/fz/darkUpscale.gif)
 
 
 ## CityLight (Water and Crane Moving)
-![CityDarkGif](https://texploder.com/fz/TEXCity_Light_Alive.gif)
+![CityDarkGif](https://texploder.com/fz/lightUpscale.gif)
 
 
 
