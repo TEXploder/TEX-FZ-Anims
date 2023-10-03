@@ -63,11 +63,15 @@ Bubble slots: 0
 4. Upload the modified manifest.txt file back to the dolphin folder.
 5. Restart your flipper and enjoy these beautiful animations.
 
+
+
 - Option 2: If you only want my animations without any others:
 1. Delete the existing dolphin folder.
 2. Create a new empty dolphin folder.
 3. Paste the files from my GitHub "bm Files" into the new dolphin folder.
 4. Restart your flipper and enjoy these beautiful animations.
+
+
 
 - Option 3: Build Yourself:
 If you choose this option, I assume you know what you're doing. (All files are in PNG format).
