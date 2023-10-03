@@ -49,8 +49,8 @@ Bubble slots: 0
 ```
 
 # Installation
-- For beginners: Drag and drop the folders from my github "bm Files" into your "dolphin" folder in "qflipper/SD Card". After that download the manifest.txt file from the dolphin folder and add the Animations from my manifest in there and upload it again to the dolphin folder. Restart your flipper and enjoy these beautiful animations
+- Option 1: For beginners: Drag and drop the folders from my github "bm Files" into your "dolphin" folder in "qflipper/SD Card". After that download the manifest.txt file from the dolphin folder and add the Animations from my manifest in there and upload it again to the dolphin folder. Restart your flipper and enjoy these beautiful animations
 
 If you just want to have my animations without others, delete the dolphin folder and create a new empty one. After that just paste the files inside my github "bm Files" into the dolphin folder. Restart your flipper and enjoy these beautiful animations
 
-- Build yourself. I guess if you want to do this you know how to. 
+- Option 2: Build yourself: I guess if you want to do this you know how to. (All files in pngs)
