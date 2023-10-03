@@ -1,16 +1,17 @@
 # TEX-FZ-Anims
 
-> [!Note]
-> I am currently working on this and i will add a firmware mod for this so the animations change when it´s day or night
+>[!Note]
+>I am currently working on this, and I will add a firmware mod for it so that the animations change based on whether it's day or night.
 
-> [!Note]
-> All of these animations have a already build folder with the .bm files instead of the .png files
+>[!Note]
+>All of these animations already have a built folder with the .bm files instead of the .png files.
 
-> [!Note]
-> If you want to change the text in the corner [Currently TEX-Flipper] just add a Bubble slot over it with you custom text
+>[!Note]
+>If you want to change the text in the corner [Currently TEX-Flipper], just add a Bubble slot over it with your custom text.
 
-> [!Warning]
-> Please give a credit if you modify these animations. If you don´t do that, my flipper, who got restartet so many times because of these animations, would be pretty sad :(
+>[!Warning]
+>Please give credit if you modify these animations. If you don't, my flipper, which has been restarted many times because of these animations, would be pretty sad :(
+
 
 # CityDark (Twinkling Stars)
 ![CityDarkGif](https://texploder.com/fz/darkUpscale.gif)
