@@ -1,6 +1,9 @@
 # TEX-FZ-Anims
 
 > [!Note]
+> I am currently working on this and i will add a firmware mod for this so the animations change when it´s day or night
+
+> [!Note]
 > All of these animations have a already build folder with the .bm files instead of the .png files
 
 > [!Note]
