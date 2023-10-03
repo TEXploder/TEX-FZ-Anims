@@ -6,6 +6,9 @@
 > [!Note]
 > If you want to change the text in the corner [Currently TEX-Flipper] just add a Bubble slot over it with you custom text
 
+> [!Warning]
+> Please give a credit if you modify these animations. If you don´t do that, my flipper, who got restartet so many times because of these animations, would be pretty sad :(
+
 # CityDark (Twinkling Stars)
 ![CityDarkGif](https://texploder.com/fz/darkUpscale.gif)
 
